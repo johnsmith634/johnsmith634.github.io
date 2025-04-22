@@ -1,0 +1,47 @@
+body {
+    background-color:darkseagreen;
+    color:whitesmoke;
+
+}
+
+
+
+
+
+/* 
+//the first line of code takes 
+// a css selector can be a class name or and id */
+
+
+/* body{
+    margin:0;
+    background-image: linear-gradient(to right, #d5d5d5, #8c8c8c);
+    cursor: url(horse.curl), grab;
+
+}
+
+nav{
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#8c8c8c;
+    display:flex;
+    justify-content: space-between;
+
+} 
+   nav a {
+    color:white;
+
+}
+
+nav a:hover{
+    background-color:#d5d5d5;
+}
+.active{
+    background-color: yellow;
+}
+nav a:visited{
+    color:white;
+} */
+
+
