@@ -1,0 +1,114 @@
+body {
+    font-size: 25px;
+    font-family:sans-serif;
+    line-height:1.5;
+    margin: 0;
+    background-color: lightblue;
+    /* background-image: linear-gradient(to right, #E6E6FA, #4110bd); */
+    cursor: url('../medias/soccer-ball-variant.cur'), grab;
+}
+header{
+    background-color:#041e42;
+    color:white;
+}
+
+nav {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #034694;
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    color: white;
+    text-align: justify;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #034694;
+}
+nav a.active {
+    background-color: #6a5acd;
+    font-weight: bold;
+}
+
+
+.active {
+    background-color: #034694;
+}
+nav a:visited {
+    color: white;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+}
+/* #contact {
+    float: right;
+} */
+
+
+/* nav a:hover:not(.active) {
+    background-color:#8c4083;
+}
+
+.active {
+    background-color: #d5e980;
+} */
+
+
+
+
+/* body {
+    background-color:rgb(71, 207, 202);
+    color:rgb(219, 154, 154);
+
+} */
+
+
+
+
+
+/* 
+//the first line of code takes 
+// a css selector can be a class name or and id */
+
+
+/* body{
+    margin:0;
+    background-image: linear-gradient(to right, #d5d5d5, #8c8c8c);
+    cursor: url(horse.curl), grab;
+
+}
+
+nav{
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#8c8c8c;
+    display:flex;
+    justify-content: space-between;
+
+} 
+   nav a {
+    color:white;
+
+}
+
+nav a:hover{
+    background-color:#d5d5d5;
+}
+.active{
+    background-color: yellow;
+}
+nav a:visited{
+    color:white;
+} */
+
+
