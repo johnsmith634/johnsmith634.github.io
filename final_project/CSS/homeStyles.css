@@ -93,7 +93,11 @@ footer{
 }
 
 #hero{
+<<<<<<< HEAD
     height:100wh; 
+=======
+    height:100wh;
+>>>>>>> 34a47564f7fb0cfb1b61bd18181ebed2aa222f61
     display: flex;
     align-times:
 }
