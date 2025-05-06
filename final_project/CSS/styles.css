@@ -10,6 +10,8 @@ body {
 header{
     background-color:#041e42;
     color:white;
+    padding:0;
+    height:50px;
 }
 
 nav {
@@ -49,6 +51,8 @@ table {
     border-collapse: collapse;
     margin-bottom: 1rem;
 }
+
+
 /* #contact {
     float: right;
 } */
