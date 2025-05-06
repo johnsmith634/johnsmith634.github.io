@@ -38,12 +38,16 @@ nav a.active {
     font-weight: bold;
 }
 
+nav a:visited{
+    color:white;
+} 
+
 
 .active {
     background-color: #034694;
 }
 nav a:visited {
-    color: white;
+    color: goldenrod;
 }
 
 table {
@@ -111,8 +115,6 @@ nav a:hover{
 .active{
     background-color: yellow;
 }
-nav a:visited{
-    color:white;
-} */
+
 
 
